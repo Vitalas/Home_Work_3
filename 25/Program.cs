@@ -2,8 +2,6 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-using System.Diagnostics.Contracts;
-
 Console.Write("Введите число A : ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 
